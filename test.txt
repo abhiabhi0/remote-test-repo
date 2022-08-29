@@ -1,1 +1,9 @@
- 
+git remote add origin https://github.com/programmercave0/remote-test-repo.git
+
+git pull origin main
+
+git add .
+
+git commit -m "test file"
+
+git push origin main
